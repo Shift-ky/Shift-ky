@@ -1,7 +1,7 @@
 ### 👋 Olá! eu sou Robson Paiva! 
 ***
 
-* 🤓 Estudante de Desenvolvimento de sistema
+* 🤓 Estudante de Desenvolvimento de sistemaa
 * 📁 Aqui estão todos os meus projetos e atividades.
 
 
