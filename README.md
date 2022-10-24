@@ -8,7 +8,7 @@
 
 ![Robson GitHub stats](https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&theme=dracula&card_width=400px) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shift-ky&layout=compact&theme=dracula)](https://github.com/Shift-ky)
 
-## Tecnologias que utilizo no dia
+## Tecnologias que utilizo.
 
 <div style="display: inline_block"><br/>
 
