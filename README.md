@@ -6,7 +6,8 @@
 
 
 
-![Robson GitHub stats](https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&theme=dracula&card_width=400px) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shift-ky&layout=compact&theme=dracula)](https://github.com/Shift-ky)
+![Robson GitHub stats](https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&theme=dracula&card_width=400px)
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shift-ky&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Tecnologias que utilizo.
 
