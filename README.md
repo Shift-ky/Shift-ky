@@ -10,25 +10,23 @@
 
 ## Tecnologias que utilizo.
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Robson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Robson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Robson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Robson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Robson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="right" alt="Robson-pic" height="150" style="border-radius:50px;" src="https://github.com/Shift-ky/curso-em-video-html-css/blob/main/_imagens/gifs-do-cubo-magico-0-unscreen.gif">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:robsoncppaiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/robson-paiva-81202912b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<img aling="center" alt="robson-html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img aling="center" alt="robson-css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img aling="center" alt="robson-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img aling="center" alt="robson-python" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img aling="center" alt="robson-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-<img aling="center" alt="robson-github" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />      
-</div><br/>
-
-## Tecnologias em aprendizagem
-<div style="display: inline_block"><br/>
-
-<img aling="center" alt="robson-javaScript" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img aling="center" alt="robson-spring" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-<img aling="center" alt="robson-nodejs" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img aling="center" alt="robson-powerBi" heigth="40" width="50" src=https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_power_bi-512.png>
-
-</div><br/>
-
-
+ 
+  ![Snake animation](https://github.com/Shift-ky/Shift-ky/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
