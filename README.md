@@ -1,35 +1,70 @@
-### 👋 Olá! eu sou Robson Paiva! 
-***
+<a>
+</a>
+<div align="center"> 
+<H1>👋🏻 Hello! I'm Robson Paiva.</H1>
 
-* 🤓 Estudante de Desenvolvimento de sistemas.
-* 📁 Aqui estão todos os meus projetos e atividades.
+![ ](https://komarev.com/ghpvc/?username=Shift-ky&color=green)
+</a>
+<a href="https://github.com/Shift-ky?tab=followers"><img src="https://img.shields.io/github/followers/Shift-ky?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href ="https://metrics.lecoq.io/Shift-ky?template=classic&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&lines=1&stars=1&habits=1&followup=1&people=1&repositories=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&calendar=false&calendar.limit=1&config.timezone=Asia%2FCalcutta"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/>
 
 
 
-![Robson GitHub stats](https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&theme=dracula&card_width=400px)
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shift-ky&layout=compact&langs_count=7&theme=dracula"/>
 
-## Tecnologias que utilizo.
+</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Robson-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Robson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Robson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Robson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Robson-bootstrap height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img align="center" alt="Robson-git height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="right" alt="Robson-pic" height="150" style="border-radius:50px;" src="https://github.com/Shift-ky/curso-em-video-html-css/blob/main/_imagens/gifs-do-cubo-magico-0-unscreen.gif">
+```lua
+RobsonPaiva = {}
+function robson:new()
+    self.name = "Robson Paiva"
+    self.age = 27
+    self.mainLanguages = {'HTML5','CSS3','Javascript','jAVA'}
+    return self
+end
+```
+<hr>
+<div align="center">
+<h3> 💻 My workspace</h3>
+
+![](https://img.shields.io/badge/Windows_11_Pro-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
+![](https://img.shields.io/badge/Intel-i5_12th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
+![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
+![](https://img.shields.io/badge/NVIDIA-GEFORCE_GTX_1650-informational?style=flat&logo=nvidia&logoColor=white&color=76bc00)
+
+  <h3 align="center">⚙️ Languages and Tools:</h3>
+  <div style="display: inline_block"><br>
+	<img src="https://skillicons.dev/icons?i=java,js,python,html,css,bootstrap,mysql,git,github,figma,eclipse,vscode,linux" />
+<div> <br/>
+
+<hr>
+<h3> Connect with me:</h3>
+<div align=center>
+  <a href="https://www.linkedin.com/in/robson-paiva-81202912b" alt="Robson Paiva | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+  <a href="mailto:robsoncppaiva@gmail.com" alt="Robson Paiva | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"></a> &nbsp;
+  <a href="mailto:robson-costa@outlook.com.br" alt="Robson Paiva | Gmail"><img src="https://img.icons8.com/fluent/48/000000/email.png"></a> &nbsp;
   
 </div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:robsoncppaiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/robson-paiva-81202912b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
- 
+
+<div>
+  <h3> Statistics :</h3>
+
+  <a href="https://github.com/Shift-ky">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=300px height=100%/>
+    <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="340px" height="410">
+  </a> <br>
+  <a align="left" href="https://github.com/Shift-ky">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shift-ky&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Shift-ky" width=300px height=100%/>  
+  </a>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shift-ky&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" width=300px alt="Shift-ky" /></p>
+   
+
+   
+
+  [![Robson github activity graph](https://activity-graph.herokuapp.com/graph?username=Shift-ky&theme=react-dark)](https://github.com/Shift-ky)
+   
   ![Snake animation](https://github.com/Shift-ky/Shift-ky/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
+
+</div>
