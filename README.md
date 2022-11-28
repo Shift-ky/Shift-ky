@@ -1,28 +1,25 @@
-<a>
-</a>
 <div align="center"> 
-<H1>👋🏻 Hello! I'm Robson Paiva.</H1>
+  <H1>👋🏻 Hello! I'm Robson Paiva.</H1>
 
-![ ](https://komarev.com/ghpvc/?username=Shift-ky&color=green)
-</a>
-<a href="https://github.com/Shift-ky?tab=followers"><img src="https://img.shields.io/github/followers/Shift-ky?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href ="https://metrics.lecoq.io/Shift-ky?template=classic&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&lines=1&stars=1&habits=1&followup=1&people=1&repositories=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&calendar=false&calendar.limit=1&config.timezone=Asia%2FCalcutta"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/>
-
-
-
+  ![ ](https://komarev.com/ghpvc/?username=Shift-ky&color=green)
+  </a>
+  <a href="https://github.com/Shift-ky?tab=followers"><img src="https://img.shields.io/github/followers/Shift-ky?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href ="https://metrics.lecoq.io/Shift-ky?template=classic&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&lines=1&stars=1&habits=1&followup=1&people=1&repositories=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&calendar=false&calendar.limit=1&config.timezone=Asia%2FCalcutta"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/>
 
 </div>
+<div>
 
-```lua
-RobsonPaiva = {}
-function robson:new()
+  ```lua
+  RobsonPaiva = {}
+  function robson:new()
     self.name = "Robson Paiva"
     self.age = 27
     self.mainLanguages = {'HTML5','CSS3','Javascript','jAVA'}
     return self
-end
-```
-<hr>
+  end
+  ```
+  <hr>
+</div>
 <div align="center">
 <h3> 💻 My workspace</h3>
 
@@ -49,10 +46,14 @@ end
 <div>
   <h3> Statistics :</h3>
 
-  <a href="https://github.com/Shift-ky">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=300px height=100%/>
-    <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="340px" height="410">
-  </a> <br>
+  <div> 
+    <a href="https://github.com/Shift-ky">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=300px height=100%/>
+    </a>
+
+  </div>
+  <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="340px" height="410">
+  
   <a align="left" href="https://github.com/Shift-ky">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Shift-ky&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Shift-ky" width=300px height=100%/>  
   </a>
