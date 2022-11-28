@@ -45,18 +45,18 @@
 
 <div>
   <h3> Statistics :</h3>
-  <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="340px" height="410">
+  <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="500px" height="544">
 
-  <div align="left"> 
+  <div align="center"> 
     <a href="https://github.com/Shift-ky">
-      <img src="https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=300px height=100%/>
-    </a>
-    <a align="left" href="https://github.com/Shift-ky"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Shift-ky&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Shift-ky" width=300px height=100%/></a>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=400px height=100%/>
+    </a><br>
+    <a align="center" href="https://github.com/Shift-ky"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Shift-ky&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Shift-ky" width=400px height=100%/></a>
 
 
   </div>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shift-ky&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" width=300px alt="Shift-ky">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shift-ky&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" width=400px alt="Shift-ky">
    
 
    
