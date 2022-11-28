@@ -1,16 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="margin-top: -130px;" viewBox="0,0 480,270">
               
-                <filter id="brightness1">
-                  <feComponentTransfer>
-                    <feFuncR type="linear" slope="0.6"/><feFuncG type="linear" slope="0.6"/><feFuncB type="linear" slope="0.6"/>
-                  </feComponentTransfer>
-                </filter>
-                <filter id="brightness2">
-                  <feComponentTransfer>
-                    <feFuncR type="linear" slope="0.19999999999999996"/><feFuncG type="linear" slope="0.19999999999999996"/><feFuncB type="linear" slope="0.19999999999999996"/>
-                  </feComponentTransfer>
-                </filter>
-              <g transform="scale(4) translate(12, 0)"><g transform="translate(0, 0)">
                     <g transform="translate(0, 6)">
                       <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
