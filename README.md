@@ -45,7 +45,7 @@
 
 <div>
   <h3> Statistics :</h3>
-  <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="400px" height="544">
+  <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="400px" height="480">
 
   <div align="center"> 
     <a href="https://github.com/Shift-ky">
