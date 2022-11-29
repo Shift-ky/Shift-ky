@@ -1,5 +1,6 @@
 <div align="center"> 
-  <H1>👋🏻 Hello! I'm Robson Paiva.</H1>
+
+  <H1>👋🏻 Hello! I'm Robson Paiva. <img src="https://emojitool.com/img/vk/1.0/img__f09f87a7f09f87b7d19.png"></H1>
 
   ![ ](https://komarev.com/ghpvc/?username=Shift-ky&color=green)
   </a>
@@ -21,20 +22,20 @@
   <hr>
 </div>
 <div align="center">
-<h3> 💻 My workspace</h3>
+<h3> My workspace 💻</h3>
 
 ![](https://img.shields.io/badge/Windows_11_Pro-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
 ![](https://img.shields.io/badge/Intel-i5_12th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
 ![](https://img.shields.io/badge/NVIDIA-GEFORCE_GTX_1650-informational?style=flat&logo=nvidia&logoColor=white&color=76bc00)
 
-  <h3 align="center">⚙️ Languages and Tools:</h3>
+  <h3 align="center">Languages and Tools:⚙️ </h3>
   <div style="display: inline_block"><br>
 	<img src="https://skillicons.dev/icons?i=java,js,python,html,css,bootstrap,mysql,git,github,figma,eclipse,vscode,linux" />
 <div> <br/>
 
 <hr>
-<h3> Connect with me:</h3>
+<h3> Connect with me: 📱 </h3>
 <div align=center>
   <a href="https://www.linkedin.com/in/robson-paiva-81202912b" alt="Robson Paiva | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
   <a href="mailto:robsoncppaiva@gmail.com" alt="Robson Paiva | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"></a> &nbsp;
@@ -44,7 +45,7 @@
 
 
 <div>
-  <h3> Statistics :</h3>
+  <h3> Statistics :📈</h3>
   <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="400px" height="480">
 
   <div align="center"> 
