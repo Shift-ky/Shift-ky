@@ -59,11 +59,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shift-ky&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" width=350px alt="Shift-ky">
    
-
-   
-
-  [![Robson github activity graph](https://activity-graph.herokuapp.com/graph?username=Shift-ky&theme=react-dark)](https://github.com/Shift-ky)
-   
   ![Snake animation](https://github.com/Shift-ky/Shift-ky/blob/output/github-contribution-grid-snake.svg)
 
 
