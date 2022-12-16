@@ -31,7 +31,7 @@
 
   <h3 align="center">Languages and Tools:⚙️ </h3>
   <div style="display: inline_block"><br>
-	<img src="https://skillicons.dev/icons?i=java,js,python,html,css,bootstrap,mysql,git,github,figma,eclipse,vscode,linux" />
+	<img src="https://skillicons.dev/icons?i=java,js,python,html,css,bootstrap,mysql,git,github,figma,eclipse,vscode,androidstudio,linux" />
 <div> <br/>
 
 <hr>
