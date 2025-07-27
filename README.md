@@ -59,7 +59,8 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shift-ky&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" width=350px alt="Shift-ky">
    
-  ![Snake animation](https://github.com/Shift-ky/Shift-ky/blob/output/github-contribution-grid-snake.svg)
+
+  ![snake gif](https://github.com/Shift-ky/Shift-ky/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
