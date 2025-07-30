@@ -1,4 +1,4 @@
-<div align="center"> 
+  <div align="center"> 
 
   <H1>👋🏻 Hello! I'm Robson Paiva. <img src="https://emojitool.com/img/vk/1.0/img__f09f87a7f09f87b7d19.png"></H1>
 
@@ -59,7 +59,7 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shift-ky&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" width=350px alt="Shift-ky">
    
-
+ <br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shift-ky/Shift-ky/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shift-ky/Shift-ky/output/github-contribution-grid-snake.svg">
