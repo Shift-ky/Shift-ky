@@ -45,9 +45,9 @@ const developer = {
 **Observe a cobra percorrer e devorar as casas do meu calendário de contribuições.**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shift-ky/Shift-ky/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shift-ky/Shift-ky/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="Cobra animada devorando as contribuições do GitHub" src="https://raw.githubusercontent.com/Shift-ky/Shift-ky/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shift-ky/Shift-ky/output/github-contribution-grid-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shift-ky/Shift-ky/output/github-contribution-grid-snake.svg?v=2">
+  <img width="100%" alt="Cobra animada devorando as contribuições do GitHub" src="https://raw.githubusercontent.com/Shift-ky/Shift-ky/output/github-contribution-grid-snake.svg?v=2">
 </picture>
 
 <sub>🎮 Animação automática • Sem cliques necessários • Alimentada por contribuições</sub>
