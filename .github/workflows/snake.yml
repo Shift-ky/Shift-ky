@@ -23,6 +23,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%2306b6d4&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2322d3ee
+      - name: Check out repository for profile cards
+        uses: actions/checkout@v4
+      - name: Generate self-hosted stats and languages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_cards.py
       - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
