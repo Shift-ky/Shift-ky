@@ -48,7 +48,34 @@ svg_card("GitHub | Estatísticas", [
     f"Seguindo: {user.get('following', 0)}",
     f"Projetos próprios analisados: {len(repos)}",
 ], "profile-stats.svg")
-total = sum(languages.values()) or 1
-svg_card("Linguagens | Projetos públicos", [
-    f"{name}: {size / total:.1%} do código" for name, size in top
-] or ["Sem dados públicos de linguagens"], "profile-languages.svg")
+# Donut chart: language byte share across public, non-fork repositories.
+import math
+total = sum(languages.values())
+palette = ["#22d3ee", "#818cf8", "#34d399", "#fbbf24", "#fb7185", "#c084fc", "#64748b"]
+entries = languages.most_common(6)
+remainder = total - sum(v for _, v in entries)
+if remainder > 0:
+    entries.append(("Outras", remainder))
+
+svg = ['<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300">',
+       '<rect width="480" height="300" rx="18" fill="#0d1117" stroke="#164e63" stroke-width="2"/>',
+       '<text x="24" y="42" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#22d3ee">Linguagens | Distribuição</text>',
+       '<text x="24" y="64" font-family="Arial,sans-serif" font-size="12" fill="#94a3b8">Por volume de código nos repositórios públicos</text>']
+if total:
+    radius = 76
+    circumference = 2 * math.pi * radius
+    offset = 0
+    for i, (name, amount) in enumerate(entries):
+        fraction = amount / total
+        length = fraction * circumference
+        svg.append(f'<circle cx="132" cy="180" r="{radius}" fill="none" stroke="{palette[i]}" stroke-width="27" stroke-dasharray="{length:.3f} {circumference - length:.3f}" stroke-dashoffset="{-offset:.3f}" transform="rotate(-90 132 180)"/>')
+        offset += length
+        y = 104 + i * 27
+        svg.append(f'<rect x="258" y="{y-11}" width="12" height="12" rx="3" fill="{palette[i]}"/>')
+        svg.append(f'<text x="279" y="{y}" font-family="Arial,sans-serif" font-size="14" fill="#cbd5e1">{html.escape(name)}: {fraction * 100:.1f}%</text>')
+    svg.append('<text x="132" y="174" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="bold" fill="#f8fafc">TOP</text>')
+    svg.append('<text x="132" y="194" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#94a3b8">LINGUAGENS</text>')
+else:
+    svg.append('<text x="24" y="140" font-family="Arial,sans-serif" font-size="16" fill="#cbd5e1">Sem dados públicos de linguagens.</text>')
+svg.append('</svg>')
+Path("dist/profile-languages.svg").write_text("\\n".join(svg), encoding="utf-8")
