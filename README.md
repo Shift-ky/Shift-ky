@@ -68,7 +68,7 @@ const developer = {
 ### 🌐 Conecte-se comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/robson-paiva-81202912b"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/robson-costa-81202912b/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
   <a href="mailto:robsoncppaiva@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Gmail" /></a>
   <a href="mailto:robson-costa@outlook.com.br"><img src="https://img.shields.io/badge/Outlook-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=22D3EE" alt="Outlook" /></a>
 </div>
