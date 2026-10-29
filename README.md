@@ -34,8 +34,8 @@ const developer = {
 ### 📊 Painel de atividade
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=CDD6F4" alt="Estatísticas GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shift-ky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CDD6F4" alt="Linguagens mais utilizadas" />
+  <img width="49%" src="https://raw.githubusercontent.com/Shift-ky/Shift-ky/output/profile-stats.svg" alt="Estatísticas GitHub" />
+  <img width="49%" src="https://raw.githubusercontent.com/Shift-ky/Shift-ky/output/profile-languages.svg" alt="Linguagens mais utilizadas" />
 </div>
 
 ### 🐍 Snake.exe — A cobra está com fome!
