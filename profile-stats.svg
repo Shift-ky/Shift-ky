@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" viewBox="0 0 480 260">
+<rect width="480" height="260" rx="18" fill="#0d1117" stroke="#164e63" stroke-width="2"/>
+<text x="24" y="44" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="#22d3ee">GitHub | Estatísticas</text>
+<line x1="24" x2="456" y1="62" y2="62" stroke="#164e63"/>
+<text x="25" y="92" font-family="Arial,sans-serif" font-size="17" fill="#cbd5e1">Repositórios públicos: 41</text>
+<text x="25" y="117" font-family="Arial,sans-serif" font-size="17" fill="#cbd5e1">Estrelas recebidas: 69</text>
+<text x="25" y="142" font-family="Arial,sans-serif" font-size="17" fill="#cbd5e1">Seguidores: 104</text>
+<text x="25" y="167" font-family="Arial,sans-serif" font-size="17" fill="#cbd5e1">Seguindo: 271</text>
+<text x="25" y="192" font-family="Arial,sans-serif" font-size="17" fill="#cbd5e1">Projetos próprios analisados: 40</text>
+</svg>
